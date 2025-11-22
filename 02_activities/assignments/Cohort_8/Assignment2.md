@@ -57,6 +57,11 @@ The store wants to keep customer addresses. Propose two architectures for the CU
 Your answer...
 ```
 
+Type 1 will retain changes and type 2 will overwrite.
+Type 2 shall add an additional flag to indicate if the record is current, effective date, and decommissioning date. 
+Please see pdf for sample table comparison.
+
+
 ***
 
 ## Section 2:
